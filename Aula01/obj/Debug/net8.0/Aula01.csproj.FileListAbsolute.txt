@@ -1,0 +1,14 @@
+C:\C#\Aulas\Aula01\bin\Debug\net8.0\Aula01.exe
+C:\C#\Aulas\Aula01\bin\Debug\net8.0\Aula01.deps.json
+C:\C#\Aulas\Aula01\bin\Debug\net8.0\Aula01.runtimeconfig.json
+C:\C#\Aulas\Aula01\bin\Debug\net8.0\Aula01.dll
+C:\C#\Aulas\Aula01\bin\Debug\net8.0\Aula01.pdb
+C:\C#\Aulas\Aula01\obj\Debug\net8.0\Aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aulas\Aula01\obj\Debug\net8.0\Aula01.AssemblyInfoInputs.cache
+C:\C#\Aulas\Aula01\obj\Debug\net8.0\Aula01.AssemblyInfo.cs
+C:\C#\Aulas\Aula01\obj\Debug\net8.0\Aula01.csproj.CoreCompileInputs.cache
+C:\C#\Aulas\Aula01\obj\Debug\net8.0\Aula01.dll
+C:\C#\Aulas\Aula01\obj\Debug\net8.0\refint\Aula01.dll
+C:\C#\Aulas\Aula01\obj\Debug\net8.0\Aula01.pdb
+C:\C#\Aulas\Aula01\obj\Debug\net8.0\Aula01.genruntimeconfig.cache
+C:\C#\Aulas\Aula01\obj\Debug\net8.0\ref\Aula01.dll
