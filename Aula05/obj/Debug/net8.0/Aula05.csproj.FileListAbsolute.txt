@@ -1,0 +1,15 @@
+C:\C#\Aulas\Aula05\bin\Debug\net8.0\Aula05.exe
+C:\C#\Aulas\Aula05\bin\Debug\net8.0\Aula05.deps.json
+C:\C#\Aulas\Aula05\bin\Debug\net8.0\Aula05.runtimeconfig.json
+C:\C#\Aulas\Aula05\bin\Debug\net8.0\Aula05.dll
+C:\C#\Aulas\Aula05\bin\Debug\net8.0\Aula05.pdb
+C:\C#\Aulas\Aula05\obj\Debug\net8.0\Aula05.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aulas\Aula05\obj\Debug\net8.0\Aula05.AssemblyInfoInputs.cache
+C:\C#\Aulas\Aula05\obj\Debug\net8.0\Aula05.AssemblyInfo.cs
+C:\C#\Aulas\Aula05\obj\Debug\net8.0\Aula05.csproj.CoreCompileInputs.cache
+C:\C#\Aulas\Aula05\obj\Debug\net8.0\Aula05.sourcelink.json
+C:\C#\Aulas\Aula05\obj\Debug\net8.0\Aula05.dll
+C:\C#\Aulas\Aula05\obj\Debug\net8.0\refint\Aula05.dll
+C:\C#\Aulas\Aula05\obj\Debug\net8.0\Aula05.pdb
+C:\C#\Aulas\Aula05\obj\Debug\net8.0\Aula05.genruntimeconfig.cache
+C:\C#\Aulas\Aula05\obj\Debug\net8.0\ref\Aula05.dll
