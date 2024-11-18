@@ -1,0 +1,15 @@
+C:\C#\Aulas\Aula13\bin\Debug\net8.0\Aula13.exe
+C:\C#\Aulas\Aula13\bin\Debug\net8.0\Aula13.deps.json
+C:\C#\Aulas\Aula13\bin\Debug\net8.0\Aula13.runtimeconfig.json
+C:\C#\Aulas\Aula13\bin\Debug\net8.0\Aula13.dll
+C:\C#\Aulas\Aula13\bin\Debug\net8.0\Aula13.pdb
+C:\C#\Aulas\Aula13\obj\Debug\net8.0\Aula13.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aulas\Aula13\obj\Debug\net8.0\Aula13.AssemblyInfoInputs.cache
+C:\C#\Aulas\Aula13\obj\Debug\net8.0\Aula13.AssemblyInfo.cs
+C:\C#\Aulas\Aula13\obj\Debug\net8.0\Aula13.csproj.CoreCompileInputs.cache
+C:\C#\Aulas\Aula13\obj\Debug\net8.0\Aula13.sourcelink.json
+C:\C#\Aulas\Aula13\obj\Debug\net8.0\Aula13.dll
+C:\C#\Aulas\Aula13\obj\Debug\net8.0\refint\Aula13.dll
+C:\C#\Aulas\Aula13\obj\Debug\net8.0\Aula13.pdb
+C:\C#\Aulas\Aula13\obj\Debug\net8.0\Aula13.genruntimeconfig.cache
+C:\C#\Aulas\Aula13\obj\Debug\net8.0\ref\Aula13.dll

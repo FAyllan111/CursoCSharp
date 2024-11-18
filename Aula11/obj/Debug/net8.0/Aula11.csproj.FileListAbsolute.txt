@@ -1,0 +1,15 @@
+C:\C#\Aulas\Aula11\bin\Debug\net8.0\Aula11.exe
+C:\C#\Aulas\Aula11\bin\Debug\net8.0\Aula11.deps.json
+C:\C#\Aulas\Aula11\bin\Debug\net8.0\Aula11.runtimeconfig.json
+C:\C#\Aulas\Aula11\bin\Debug\net8.0\Aula11.dll
+C:\C#\Aulas\Aula11\bin\Debug\net8.0\Aula11.pdb
+C:\C#\Aulas\Aula11\obj\Debug\net8.0\Aula11.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aulas\Aula11\obj\Debug\net8.0\Aula11.AssemblyInfoInputs.cache
+C:\C#\Aulas\Aula11\obj\Debug\net8.0\Aula11.AssemblyInfo.cs
+C:\C#\Aulas\Aula11\obj\Debug\net8.0\Aula11.csproj.CoreCompileInputs.cache
+C:\C#\Aulas\Aula11\obj\Debug\net8.0\Aula11.sourcelink.json
+C:\C#\Aulas\Aula11\obj\Debug\net8.0\Aula11.dll
+C:\C#\Aulas\Aula11\obj\Debug\net8.0\refint\Aula11.dll
+C:\C#\Aulas\Aula11\obj\Debug\net8.0\Aula11.pdb
+C:\C#\Aulas\Aula11\obj\Debug\net8.0\Aula11.genruntimeconfig.cache
+C:\C#\Aulas\Aula11\obj\Debug\net8.0\ref\Aula11.dll

@@ -1,0 +1,15 @@
+C:\C#\Aulas\Aula14\bin\Debug\net8.0\Aula14.exe
+C:\C#\Aulas\Aula14\bin\Debug\net8.0\Aula14.deps.json
+C:\C#\Aulas\Aula14\bin\Debug\net8.0\Aula14.runtimeconfig.json
+C:\C#\Aulas\Aula14\bin\Debug\net8.0\Aula14.dll
+C:\C#\Aulas\Aula14\bin\Debug\net8.0\Aula14.pdb
+C:\C#\Aulas\Aula14\obj\Debug\net8.0\Aula14.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aulas\Aula14\obj\Debug\net8.0\Aula14.AssemblyInfoInputs.cache
+C:\C#\Aulas\Aula14\obj\Debug\net8.0\Aula14.AssemblyInfo.cs
+C:\C#\Aulas\Aula14\obj\Debug\net8.0\Aula14.csproj.CoreCompileInputs.cache
+C:\C#\Aulas\Aula14\obj\Debug\net8.0\Aula14.sourcelink.json
+C:\C#\Aulas\Aula14\obj\Debug\net8.0\Aula14.dll
+C:\C#\Aulas\Aula14\obj\Debug\net8.0\refint\Aula14.dll
+C:\C#\Aulas\Aula14\obj\Debug\net8.0\Aula14.pdb
+C:\C#\Aulas\Aula14\obj\Debug\net8.0\Aula14.genruntimeconfig.cache
+C:\C#\Aulas\Aula14\obj\Debug\net8.0\ref\Aula14.dll
