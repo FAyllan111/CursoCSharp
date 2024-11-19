@@ -1,0 +1,15 @@
+C:\C#\Aulas\Aula16\obj\Debug\net8.0\Aula16.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aulas\Aula16\obj\Debug\net8.0\Aula16.AssemblyInfoInputs.cache
+C:\C#\Aulas\Aula16\obj\Debug\net8.0\Aula16.AssemblyInfo.cs
+C:\C#\Aulas\Aula16\obj\Debug\net8.0\Aula16.csproj.CoreCompileInputs.cache
+C:\C#\Aulas\Aula16\obj\Debug\net8.0\Aula16.sourcelink.json
+C:\C#\Aulas\Aula16\bin\Debug\net8.0\Aula16.exe
+C:\C#\Aulas\Aula16\bin\Debug\net8.0\Aula16.deps.json
+C:\C#\Aulas\Aula16\bin\Debug\net8.0\Aula16.runtimeconfig.json
+C:\C#\Aulas\Aula16\bin\Debug\net8.0\Aula16.dll
+C:\C#\Aulas\Aula16\bin\Debug\net8.0\Aula16.pdb
+C:\C#\Aulas\Aula16\obj\Debug\net8.0\Aula16.dll
+C:\C#\Aulas\Aula16\obj\Debug\net8.0\refint\Aula16.dll
+C:\C#\Aulas\Aula16\obj\Debug\net8.0\Aula16.pdb
+C:\C#\Aulas\Aula16\obj\Debug\net8.0\Aula16.genruntimeconfig.cache
+C:\C#\Aulas\Aula16\obj\Debug\net8.0\ref\Aula16.dll
