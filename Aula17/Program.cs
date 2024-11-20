@@ -1,4 +1,4 @@
-﻿//Array ou vetor -> unidimensional => colecao de tipos na mesma variavel
+﻿//Array unidimensional-> vetores => colecao de tipos na mesma variavel
 using System.Globalization;
 
 class Aula17{

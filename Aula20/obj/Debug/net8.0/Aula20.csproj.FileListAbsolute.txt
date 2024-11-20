@@ -1,0 +1,15 @@
+C:\C#\Aulas\Aula20\bin\Debug\net8.0\Aula20.exe
+C:\C#\Aulas\Aula20\bin\Debug\net8.0\Aula20.deps.json
+C:\C#\Aulas\Aula20\bin\Debug\net8.0\Aula20.runtimeconfig.json
+C:\C#\Aulas\Aula20\bin\Debug\net8.0\Aula20.dll
+C:\C#\Aulas\Aula20\bin\Debug\net8.0\Aula20.pdb
+C:\C#\Aulas\Aula20\obj\Debug\net8.0\Aula20.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aulas\Aula20\obj\Debug\net8.0\Aula20.AssemblyInfoInputs.cache
+C:\C#\Aulas\Aula20\obj\Debug\net8.0\Aula20.AssemblyInfo.cs
+C:\C#\Aulas\Aula20\obj\Debug\net8.0\Aula20.csproj.CoreCompileInputs.cache
+C:\C#\Aulas\Aula20\obj\Debug\net8.0\Aula20.sourcelink.json
+C:\C#\Aulas\Aula20\obj\Debug\net8.0\Aula20.dll
+C:\C#\Aulas\Aula20\obj\Debug\net8.0\refint\Aula20.dll
+C:\C#\Aulas\Aula20\obj\Debug\net8.0\Aula20.pdb
+C:\C#\Aulas\Aula20\obj\Debug\net8.0\Aula20.genruntimeconfig.cache
+C:\C#\Aulas\Aula20\obj\Debug\net8.0\ref\Aula20.dll
