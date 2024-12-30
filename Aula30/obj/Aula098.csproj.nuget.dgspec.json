@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\Aulas\\Aula098\\Aula098.csproj": {}
+    "C:\\C#\\Aulas\\Aula30\\Aula098.csproj": {}
   },
   "projects": {
-    "C:\\C#\\Aulas\\Aula098\\Aula098.csproj": {
+    "C:\\C#\\Aulas\\Aula30\\Aula098.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\Aulas\\Aula098\\Aula098.csproj",
+        "projectUniqueName": "C:\\C#\\Aulas\\Aula30\\Aula098.csproj",
         "projectName": "Aula098",
-        "projectPath": "C:\\C#\\Aulas\\Aula098\\Aula098.csproj",
+        "projectPath": "C:\\C#\\Aulas\\Aula30\\Aula098.csproj",
         "packagesPath": "C:\\Users\\Francisco.Esilva\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\Aulas\\Aula098\\obj\\",
+        "outputPath": "C:\\C#\\Aulas\\Aula30\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Francisco.Esilva\\AppData\\Roaming\\NuGet\\NuGet.Config"
