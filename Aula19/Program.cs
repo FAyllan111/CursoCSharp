@@ -1,10 +1,11 @@
 ﻿
 // iteração usando for
+
 using System.Globalization;
 
 class Aula19{
     static void Main(){
-        // for usado mais quando sei exatamente quantas vezes se quer repetir o comando
+        // for => usado mais quando sei exatamente quantas vezes se quer repetir o comando
 
         
         //for(e1;e2;e3){}

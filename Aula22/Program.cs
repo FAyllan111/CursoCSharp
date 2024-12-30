@@ -1,4 +1,4 @@
-﻿// iteravao for each iterar e LER elementos de uma coleção
+﻿// iteracao for each iterar e LER elementos de uma coleção
 class Aula22{
     static void Main(){
 

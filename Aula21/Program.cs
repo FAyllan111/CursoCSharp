@@ -1,4 +1,4 @@
-﻿// iteracao do while
+﻿// iteracao do  while
 class Aula21{
     static void Main(){
 

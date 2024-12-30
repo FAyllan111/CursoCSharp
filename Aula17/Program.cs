@@ -1,4 +1,5 @@
 ﻿//Array unidimensional-> vetores => colecao de tipos na mesma variavel
+
 using System.Globalization;
 
 class Aula17{
@@ -14,7 +15,7 @@ class Aula17{
         n[4] = 8955;
         n[2] = 8998;
 
-        // imprimir uma posicção do arrayn indica o array e coloca a posução
+        // imprimir uma posicção do array n indica o array e coloca a posução
 
         Console.WriteLine(n[2]);
 

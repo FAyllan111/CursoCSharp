@@ -1,7 +1,8 @@
 ﻿//IF e else
 class Aula13{
     static void Main(){
-                int n1, n2, n3, n4;
+        
+        int n1, n2, n3, n4;
 
         string resultado;
 
