@@ -1,0 +1,15 @@
+C:\C#\Aulas\Aula31\bin\Debug\net8.0\Aula098.exe
+C:\C#\Aulas\Aula31\bin\Debug\net8.0\Aula098.deps.json
+C:\C#\Aulas\Aula31\bin\Debug\net8.0\Aula098.runtimeconfig.json
+C:\C#\Aulas\Aula31\bin\Debug\net8.0\Aula098.dll
+C:\C#\Aulas\Aula31\bin\Debug\net8.0\Aula098.pdb
+C:\C#\Aulas\Aula31\obj\Debug\net8.0\Aula098.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aulas\Aula31\obj\Debug\net8.0\Aula098.AssemblyInfoInputs.cache
+C:\C#\Aulas\Aula31\obj\Debug\net8.0\Aula098.AssemblyInfo.cs
+C:\C#\Aulas\Aula31\obj\Debug\net8.0\Aula098.csproj.CoreCompileInputs.cache
+C:\C#\Aulas\Aula31\obj\Debug\net8.0\Aula098.sourcelink.json
+C:\C#\Aulas\Aula31\obj\Debug\net8.0\Aula098.dll
+C:\C#\Aulas\Aula31\obj\Debug\net8.0\refint\Aula098.dll
+C:\C#\Aulas\Aula31\obj\Debug\net8.0\Aula098.pdb
+C:\C#\Aulas\Aula31\obj\Debug\net8.0\Aula098.genruntimeconfig.cache
+C:\C#\Aulas\Aula31\obj\Debug\net8.0\ref\Aula098.dll

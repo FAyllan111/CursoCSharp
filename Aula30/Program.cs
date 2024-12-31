@@ -56,7 +56,7 @@ class Jogador { //=> não definido modificador é publica
     
     } // escopo local
 
-    public info (){
+    public info(){
         Console.WriteLine(nome);
         Console.WriteLine(vivo);
         Console.WriteLine(lesionado);
