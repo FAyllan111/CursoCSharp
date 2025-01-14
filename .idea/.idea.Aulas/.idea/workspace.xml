@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ac809e4-8e6b-4712-868c-88a616e40cea" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Aula01/obj/Debug/net8.0/Aula01.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aula01/obj/Debug/net8.0/Aula01.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/obj/Debug/net8.0/Aula01.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aula01/obj/Debug/net8.0/Aula01.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula02/obj/Debug/net8.0/Aula02.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aula02/obj/Debug/net8.0/Aula02.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula02/obj/Debug/net8.0/Aula02.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aula02/obj/Debug/net8.0/Aula02.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/obj/Debug/net8.0/Aula03.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aula03/obj/Debug/net8.0/Aula03.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula03/obj/Debug/net8.0/Aula03.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aula03/obj/Debug/net8.0/Aula03.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/obj/Debug/net8.0/Aula04.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aula04/obj/Debug/net8.0/Aula04.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula04/obj/Debug/net8.0/Aula04.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aula04/obj/Debug/net8.0/Aula04.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula05/obj/Debug/net8.0/Aula05.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aula05/obj/Debug/net8.0/Aula05.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula05/obj/Debug/net8.0/Aula05.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aula05/obj/Debug/net8.0/Aula05.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula06/obj/Debug/net8.0/Aula06.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aula06/obj/Debug/net8.0/Aula06.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula06/obj/Debug/net8.0/Aula06.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aula06/obj/Debug/net8.0/Aula06.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07/obj/Debug/net8.0/Aula07.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aula07/obj/Debug/net8.0/Aula07.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07/obj/Debug/net8.0/Aula07.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aula07/obj/Debug/net8.0/Aula07.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula08/obj/Debug/net8.0/Aula08.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aula08/obj/Debug/net8.0/Aula08.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula08/obj/Debug/net8.0/Aula08.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aula08/obj/Debug/net8.0/Aula08.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula09/obj/Debug/net8.0/Aula09.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aula09/obj/Debug/net8.0/Aula09.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula09/obj/Debug/net8.0/Aula09.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aula09/obj/Debug/net8.0/Aula09.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula10/obj/Debug/net8.0/Aula10.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aula10/obj/Debug/net8.0/Aula10.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula10/obj/Debug/net8.0/Aula10.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aula10/obj/Debug/net8.0/Aula10.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula11/obj/Debug/net8.0/Aula11.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aula11/obj/Debug/net8.0/Aula11.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula11/obj/Debug/net8.0/Aula11.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aula11/obj/Debug/net8.0/Aula11.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula12/obj/Debug/net8.0/Aula12.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aula12/obj/Debug/net8.0/Aula12.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula12/obj/Debug/net8.0/Aula12.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aula12/obj/Debug/net8.0/Aula12.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula13/obj/Debug/net8.0/Aula13.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aula13/obj/Debug/net8.0/Aula13.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula13/obj/Debug/net8.0/Aula13.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aula13/obj/Debug/net8.0/Aula13.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula14/obj/Debug/net8.0/Aula14.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aula14/obj/Debug/net8.0/Aula14.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula14/obj/Debug/net8.0/Aula14.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aula14/obj/Debug/net8.0/Aula14.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula15/obj/Debug/net8.0/Aula15.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aula15/obj/Debug/net8.0/Aula15.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula15/obj/Debug/net8.0/Aula15.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aula15/obj/Debug/net8.0/Aula15.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula16/obj/Debug/net8.0/Aula16.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aula16/obj/Debug/net8.0/Aula16.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula16/obj/Debug/net8.0/Aula16.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aula16/obj/Debug/net8.0/Aula16.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula17/obj/Debug/net8.0/Aula17.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aula17/obj/Debug/net8.0/Aula17.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula17/obj/Debug/net8.0/Aula17.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aula17/obj/Debug/net8.0/Aula17.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula18/obj/Debug/net8.0/Aula18.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aula18/obj/Debug/net8.0/Aula18.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula18/obj/Debug/net8.0/Aula18.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aula18/obj/Debug/net8.0/Aula18.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula19/obj/Debug/net8.0/Aula19.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aula19/obj/Debug/net8.0/Aula19.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula19/obj/Debug/net8.0/Aula19.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aula19/obj/Debug/net8.0/Aula19.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula20/obj/Debug/net8.0/Aula20.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20/obj/Debug/net8.0/Aula20.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula20/obj/Debug/net8.0/Aula20.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aula20/obj/Debug/net8.0/Aula20.AssemblyInfoInputs.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2rcOOiPwJcLgywPWDpXCjQOCSWx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ac809e4-8e6b-4712-868c-88a616e40cea" name="Changes" comment="" />
+      <created>1736854869096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736854869096</updated>
+      <workItem from="1736854872292" duration="65000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
